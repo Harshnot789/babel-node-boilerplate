@@ -25,4 +25,5 @@ npm install
 * [@babel/plugin-proposal-optional-chaining](https://babeljs.io/docs/en/babel-plugin-proposal-optional-chaining)
 * [@babel/plugin-proposal-nullish-coalescing-operator](https://babeljs.io/docs/en/babel-plugin-proposal-nullish-coalescing-operator)
 
-## If you come here then please take advantage of this -- Quote Of The Day
+## Quote Of The Day
+* If you come here then please take advantage of this.
